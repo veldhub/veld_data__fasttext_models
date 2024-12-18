@@ -1,10 +1,11 @@
 x-veld:
   data:
     description: 100% AMC model
-    file_type: bin
-    content:
-    - word embeddings model
-    - fasttext model
+    file_type: fastText model
+    topic:
+      - NLP
+      - word embeddings
+    content: word embeddings model
     additional:
       model_id: m8
       train_data_description: null
