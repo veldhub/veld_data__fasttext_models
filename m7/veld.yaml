@@ -5,7 +5,6 @@ x-veld:
     topic:
       - NLP
       - word embeddings
-    content: word embeddings model
     additional:
       model_id: m7
       train_data_description: null
